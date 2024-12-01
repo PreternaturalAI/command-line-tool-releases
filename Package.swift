@@ -16,8 +16,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "preternatural",
-            url: "https://github.com/PreternaturalAI/command-line-tool-releases/releases/download/0.0.71/preternatural.artifactbundle.zip",
-            checksum: "e82240d22afe276bd249359c0f52c30dfdebe6e5c5e184bb2f5b1c3f195810e2"
+            url: "https://github.com/PreternaturalAI/command-line-tool-releases/releases/download/0.0.72/preternatural.artifactbundle.zip",
+            checksum: "3d61897a349ae52b3a15ce9aea9e4100a52432eaec208a6657b11e4b2c8f9076"
         )
     ]
 )
